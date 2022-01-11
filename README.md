@@ -22,5 +22,5 @@ We're working on a new game named Vax-Man. With a few noteworthy exceptions, the
 </ul>
 To <b>play</b>, run pacman_game.py and use directional arrows to move.
 <br>
-Developed in collaboration with <a href="https://github.com/simo540">Simo Messek</a>
+Developed in collaboration with <a href="https://github.com/SimoMessek">Simo Messek</a>
 
