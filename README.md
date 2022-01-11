@@ -1,6 +1,6 @@
 # Vax_Man_Game_Python.3
 
-This is my personal Python version of the Vax-man game, and that is the first challenge of the EA Software Engineering Virtual Experience Program.
+The first challenge of the EA Software Engineering Virtual Experience Program is my customized Python version of the Vax-man game.
 
 ![Vax-man](https://user-images.githubusercontent.com/47311671/148130533-324ccdcd-f9a9-410e-8e35-26abe32c14eb.gif)
 
