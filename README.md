@@ -2,7 +2,9 @@
 
 The first challenge of the Electronic Arts Software Engineering Virtual Experience Program is my customized Python version of the Vax-man game.
 
-![Vax-man](https://user-images.githubusercontent.com/47311671/148130533-324ccdcd-f9a9-410e-8e35-26abe32c14eb.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47311671/148130533-324ccdcd-f9a9-410e-8e35-26abe32c14eb.gif">
+</p>
 
 Pac-Man is one of the first computer games ever created. We're going to pay tribute to Pac-Man in this challenge.
 
